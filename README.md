@@ -35,3 +35,6 @@
 <div align="center">🐍 Snake eats my contribution<div/>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luxz999/luxz999/output/github-contribution-grid-snake.svg" />
 
+<br>
+<img src="[/profile-3d-contrib/profile-night-rainbow.svg](https://capsule-render.vercel.app/api?type=waving&height=145&color=gradient&text=luxz&section=footer&reversal=false&animation=twinkling&textBg=false&fontAlignY=75)"/>
+
