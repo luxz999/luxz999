@@ -24,7 +24,7 @@
 <br>
 
 
-<img align="center" width=370 src="https://streak-stats.demolab.com/?user=luxz999&count_private=true&theme=dark&border_radius=10"/>
+<!-- <img align="center" width=370 src="https://streak-stats.demolab.com/?user=luxz999&count_private=true&theme=dark&border_radius=10"/> -->
 <img align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=luxz999&count_private=true&show_icons=true&theme=dark&&border_radius=10" />
 <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxz999&hide=HTML&50ngs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>	
 <img align="center" src="/profile-3d-contrib/profile-custom-rainbow.svg"/>
