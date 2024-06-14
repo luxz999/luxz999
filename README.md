@@ -23,12 +23,11 @@
 <div align="center">📊 Stats<div/>
 <br>
 
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=luxz999&count_private=true&theme=dark&border_radius=10"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=luxz999&count_private=true&show_icons=true&theme=dark&&border_radius=10" />
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxz999&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>	
-  <img align="center" src="/profile-3d-contrib/profile-night-rainbow.svg"/>
-</div>
+
+<img align="center" width=390 src="https://streak-stats.demolab.com/?user=luxz999&count_private=true&theme=dark&border_radius=10"/>
+<img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=luxz999&count_private=true&show_icons=true&theme=dark&&border_radius=10" />
+<img align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxz999&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>	
+<img align="center" src="/profile-3d-contrib/profile-custom-rainbow.svg"/>
 <br>
 
 <hr/>
@@ -37,4 +36,3 @@
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=gradient&text=luxz&section=footer&reversal=false&animation=twinkling&textBg=false&fontAlignY=75"/>
-
